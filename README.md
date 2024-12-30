@@ -19,6 +19,7 @@ This is a web application designed to simplify job searching and recruitment. Th
 - Share job forms to collect applications.
 - Review submitted resumes.
 - Manage job postings and applications.
+- Review resume by AI
 
 ## Technology Stack
 
